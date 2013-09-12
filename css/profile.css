@@ -1,5 +1,9 @@
 body {
-    background-image: url(/images/bluemountain.jpg);
+    background-image: url(../images/bluemountain.jpg);
     background-repeat: no-repeat;
     padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+}
+
+.name{
+    color: lightgray;
 }
